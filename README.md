@@ -1,7 +1,7 @@
 # API-[README.md](https://github.com/user-attachments/files/22164810/README.md)
 # Chinese Proverbs API (Express.js)
 
-A simple but unique API that serves Chinese proverbs (成语/谚语) with search, tags, pagination, random selection, and a deterministic **Proverb of the Day** feature.
+An API that serves Chinese proverbs (成语/谚语)  tags, pagination, random selection, and a deterministic **Proverb of the Day** feature.
 
 ## Features
 - JSON responses for all endpoints
