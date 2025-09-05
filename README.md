@@ -149,8 +149,7 @@ Content-Type: application/json
 **Response:**
 ```json
 {
-  "success": true,
-  "message": "Feedback received. Thank you!"
+    "status": "ok"
 }
 ```
 
