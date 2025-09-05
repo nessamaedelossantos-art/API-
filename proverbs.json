@@ -1,0 +1,162 @@
+[
+  {
+    "chinese": "授人以鱼不如授人以渔。",
+    "pinyin": "Shòu rén yǐ yú bùrú shòu rén yǐ yú.",
+    "english": "Giving someone a fish is not as good as teaching them to fish.",
+    "meaning": "Teaching skills is better than giving temporary help.",
+    "author": "Confucius",
+    "category": "Education"
+  },
+  {
+    "chinese": "千里之行，始于足下。",
+    "pinyin": "Qiān lǐ zhī xíng, shǐ yú zú xià.",
+    "english": "A journey of a thousand miles begins with a single step.",
+    "meaning": "Great achievements begin with small actions.",
+    "author": "Laozi",
+    "category": "Perseverance"
+  },
+  {
+    "chinese": "滴水穿石。",
+    "pinyin": "Dī shuǐ chuān shí.",
+    "english": "Dripping water penetrates stone.",
+    "meaning": "Persistent effort overcomes resistance.",
+    "author": "Anonymous",
+    "category": "Perseverance"
+  },
+  {
+    "chinese": "读万卷书不如行万里路。",
+    "pinyin": "Dú wàn juǎn shū bùrú xíng wàn lǐ lù.",
+    "english": "Reading ten thousand books is not as useful as traveling ten thousand miles.",
+    "meaning": "Practical experience is more valuable than theoretical knowledge.",
+    "author": "Anonymous",
+    "category": "Learning"
+  },
+  {
+    "chinese": "百闻不如一见。",
+    "pinyin": "Bǎi wén bùrú yī jiàn.",
+    "english": "Hearing a hundred times is not as good as seeing once.",
+    "meaning": "Direct experience is more reliable than hearsay.",
+    "author": "Anonymous",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "学而不思则罔，思而不学则殆。",
+    "pinyin": "Xué ér bù sī zé wǎng, sī ér bù xué zé dài.",
+    "english": "Learning without thought is labor lost; thought without learning is perilous.",
+    "meaning": "Balance study with reflection.",
+    "author": "Confucius",
+    "category": "Education"
+  },
+  {
+    "chinese": "知足常乐。",
+    "pinyin": "Zhī zú cháng lè.",
+    "english": "Contentment brings constant happiness.",
+    "meaning": "True happiness comes from appreciating what you already have.",
+    "author": "Anonymous",
+    "category": "Happiness"
+  },
+  {
+    "chinese": "失败是成功之母。",
+    "pinyin": "Shībài shì chénggōng zhī mǔ.",
+    "english": "Failure is the mother of success.",
+    "meaning": "Success is built on lessons from failure.",
+    "author": "Anonymous",
+    "category": "Motivation"
+  },
+  {
+    "chinese": "塞翁失马，焉知非福。",
+    "pinyin": "Sàiwēng shī mǎ, yān zhī fēi fú.",
+    "english": "The old man lost his horse, but who knows if it's not a blessing?",
+    "meaning": "A setback may turn out to be a good thing.",
+    "author": "Anonymous",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "三人行，必有我师焉。",
+    "pinyin": "Sān rén xíng, bì yǒu wǒ shī yān.",
+    "english": "When three walk together, one can be my teacher.",
+    "meaning": "There is always something to learn from others.",
+    "author": "Confucius",
+    "category": "Learning"
+  },
+  {
+    "chinese": "光阴似箭，日月如梭。",
+    "pinyin": "Guāng yīn sì jiàn, rì yuè rú suō.",
+    "english": "Time flies like an arrow; days and months like a shuttle.",
+    "meaning": "Time passes quickly, so use it wisely.",
+    "author": "Anonymous",
+    "category": "Time"
+  },
+  {
+    "chinese": "欲速则不达。",
+    "pinyin": "Yù sù zé bù dá.",
+    "english": "Haste makes waste.",
+    "meaning": "Rushing often leads to mistakes.",
+    "author": "Confucius",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "好事多磨。",
+    "pinyin": "Hǎo shì duō mó.",
+    "english": "Good things take time.",
+    "meaning": "Great achievements often face challenges.",
+    "author": "Anonymous",
+    "category": "Motivation"
+  },
+  {
+    "chinese": "君子之交淡如水。",
+    "pinyin": "Jūnzǐ zhī jiāo dàn rú shuǐ.",
+    "english": "The friendship of a gentleman is as plain as water.",
+    "meaning": "True friendship is simple and pure, not based on gain.",
+    "author": "Confucius",
+    "category": "Friendship"
+  },
+  {
+    "chinese": "有志者，事竟成。",
+    "pinyin": "Yǒu zhì zhě, shì jìng chéng.",
+    "english": "Where there is a will, there is a way.",
+    "meaning": "Determination leads to success.",
+    "author": "Anonymous",
+    "category": "Motivation"
+  },
+  {
+    "chinese": "民以食为天。",
+    "pinyin": "Mín yǐ shí wéi tiān.",
+    "english": "The people regard food as heaven.",
+    "meaning": "Food is the most important thing for the people.",
+    "author": "Anonymous",
+    "category": "Life"
+  },
+  {
+    "chinese": "近朱者赤，近墨者黑。",
+    "pinyin": "Jìn zhū zhě chì, jìn mò zhě hēi.",
+    "english": "He who stays near vermilion gets stained red; he who stays near ink gets stained black.",
+    "meaning": "A person's character is influenced by their surroundings.",
+    "author": "Anonymous",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "静以修身，俭以养德。",
+    "pinyin": "Jìng yǐ xiū shēn, jiǎn yǐ yǎng dé.",
+    "english": "Cultivate yourself with tranquility, nurture virtue with frugality.",
+    "meaning": "Discipline and simplicity strengthen character.",
+    "author": "Zhuge Liang",
+    "category": "Philosophy"
+  },
+  {
+    "chinese": "己所不欲，勿施于人。",
+    "pinyin": "Jǐ suǒ bù yù, wù shī yú rén.",
+    "english": "Do not impose on others what you yourself do not desire.",
+    "meaning": "Treat others the way you want to be treated.",
+    "author": "Confucius",
+    "category": "Ethics"
+  },
+  {
+    "chinese": "小不忍则乱大谋。",
+    "pinyin": "Xiǎo bù rěn zé luàn dà móu.",
+    "english": "If small matters are not endured, great plans may be ruined.",
+    "meaning": "Patience in small things is crucial for achieving big goals.",
+    "author": "Confucius",
+    "category": "Wisdom"
+  }
+]
