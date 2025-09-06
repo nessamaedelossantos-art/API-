@@ -5,9 +5,9 @@ A RESTful API built with Express.js that serves Chinese proverbs
 ## Features
 
 - **List Proverbs:** Paginated, searchable, and filterable by tags.
-- **Random Proverb:** Get a random proverb, optionally filtered by tag or deterministic via seed.
-- **Proverb of the Day:** Returns a proverb for a specific date or today (UTC).
-- **CORS & Security:** CORS enabled and basic security headers via Helmet.
+- **Random Proverb:** Get a random proverb
+- **Proverb of the Day:** Returns a proverb for a specific date or today.
+- **Feedback Submission:** Accepts feedback via POST, stored locally.
 
 ## Installation & Setup
 
@@ -25,6 +25,7 @@ A RESTful API built with Express.js that serves Chinese proverbs
 3. **Start the server:**
    ```bash
    npm run start
+   # Or for development with auto-restart:
    npm run dev
    ```
 
@@ -44,7 +45,6 @@ Base URL: `http://localhost:3000/api/v1`
 ### Get Random Proverb
 
 - **GET `/proverbs/random`**
-  - Query params: `tag` (optional), `seed` (optional)
   - Example: `/proverbs/random?tag=wisdom&seed=alice`
 
 ### Search Proverbs
@@ -57,7 +57,26 @@ Base URL: `http://localhost:3000/api/v1`
 - **GET `/today`**
   - Query param: `date=YYYY-MM-DD` (optional; defaults to today UTC)
 
+### Submit Feedback
+
+- **POST `/feedback`**
+  - Body (JSON):
+    ```json
+    {
+      "name": "Alex",
+      "email": "alex@example.com",
+      "message": "Love this API!"
+    }
+    ```
+
 ## Example Requests & Responses
+
+### List Proverbs
+
+**Request:**
+```
+GET /api/v1/proverbs?limit=2
+```
 
 **Response:**
 ```json
@@ -103,6 +122,28 @@ GET /api/v1/today?date=2025-01-01
     "tags": ["beginnings", "perseverance"],
     "source": "老子"
   }
+}
+```
+
+### Submit Feedback
+
+**Request:**
+```
+POST /api/v1/feedback
+Content-Type: application/json
+
+{
+  "name": "Alex",
+  "email": "alex@example.com",
+  "message": "Love this API!"
+}
+```
+
+**Response:**
+```json
+{
+  "success": true,
+  "message": "Feedback received. Thank you!"
 }
 ```
 
