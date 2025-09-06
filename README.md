@@ -1,14 +1,12 @@
 # Chinese Proverbs API
 
-A RESTful API built with Express.js that serves Chinese proverbs with search, filtering, and feedback features.
+A RESTful API built with Express.js that serves Chinese proverbs 
 
 ## Features
 
 - **List Proverbs:** Paginated, searchable, and filterable by tags.
 - **Random Proverb:** Get a random proverb, optionally filtered by tag or deterministic via seed.
 - **Proverb of the Day:** Returns a proverb for a specific date or today (UTC).
-- **Get by ID:** Fetch a proverb by its unique ID.
-- **Feedback Submission:** Accepts feedback via POST, stored locally.
 - **CORS & Security:** CORS enabled and basic security headers via Helmet.
 
 ## Installation & Setup
@@ -27,7 +25,6 @@ A RESTful API built with Express.js that serves Chinese proverbs with search, fi
 3. **Start the server:**
    ```bash
    npm run start
-   # Or for development with auto-restart:
    npm run dev
    ```
 
@@ -43,10 +40,6 @@ Base URL: `http://localhost:3000/api/v1`
 - **GET `/proverbs`**
   - Query params: `page`, `limit`, `q` (search), `tag` (comma separated)
   - Example: `/proverbs?limit=5&tag=perseverance`
-
-### Get Proverb by ID
-
-- **GET `/proverbs/:id`**
 
 ### Get Random Proverb
 
@@ -64,26 +57,7 @@ Base URL: `http://localhost:3000/api/v1`
 - **GET `/today`**
   - Query param: `date=YYYY-MM-DD` (optional; defaults to today UTC)
 
-### Submit Feedback
-
-- **POST `/feedback`**
-  - Body (JSON):
-    ```json
-    {
-      "name": "Alex",
-      "email": "alex@example.com",
-      "message": "Love this API!"
-    }
-    ```
-
 ## Example Requests & Responses
-
-### List Proverbs
-
-**Request:**
-```
-GET /api/v1/proverbs?limit=2
-```
 
 **Response:**
 ```json
@@ -129,27 +103,6 @@ GET /api/v1/today?date=2025-01-01
     "tags": ["beginnings", "perseverance"],
     "source": "老子"
   }
-}
-```
-
-### Submit Feedback
-
-**Request:**
-```
-POST /api/v1/feedback
-Content-Type: application/json
-
-{
-  "name": "Alex",
-  "email": "alex@example.com",
-  "message": "Love this API!"
-}
-```
-
-**Response:**
-```json
-{
-    "status": "ok"
 }
 ```
 
