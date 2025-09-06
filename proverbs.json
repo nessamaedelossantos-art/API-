@@ -158,5 +158,575 @@
     "meaning": "Patience in small things is crucial for achieving big goals.",
     "author": "Confucius",
     "category": "Wisdom"
+  },   
+  {
+    "chinese": "画蛇添足。", 
+    "pinyin": "Huà shé tiān zú.",
+    "english": "Drawing legs on a snake.",
+    "meaning": "To ruin something by adding unnecessary details.", 
+    "author": "Anonymous", 
+    "category": "Caution" 
+  },
+  {
+    "chinese": "井底之蛙。",
+    "pinyin": "Jǐng dǐ zhī wā.", 
+    "english": "A frog at the bottom of a well.",
+    "meaning": "Someone with a limited outlook.",
+    "author": "Anonymous", 
+    "category": "Perspective" 
+  },
+  { 
+    "chinese": "纸上谈兵。",
+    "pinyin": "Zhǐ shàng tán bīng.",
+    "english": "Discussing military tactics on paper.",
+    "meaning": "Empty talk without practical experience.",
+    "author": "Anonymous",
+    "category": "Practicality"
+  }, 
+  {
+    "chinese": "一箭双雕。", 
+    "pinyin": "Yī jiàn shuāng diāo.",
+    "english": "One arrow, two golden eagles.",
+    "meaning": "To achieve two goals with one action.",
+    "author": "Anonymous", 
+    "category": "Efficiency"
+  },
+  { 
+    "chinese": "水能载舟，亦能覆舟。",
+    "pinyin": "Shuǐ néng zài zhōu, yì néng fù zhōu.",
+    "english": "Water can carry a boat; it can also overturn it.",
+    "meaning": "The people can support or overthrow a ruler.",
+    "author": "Anonymous",
+    "category": "Power" 
+  },
+  { 
+    "chinese": "亡羊补牢，犹未晚也。",
+    "pinyin": "Wáng yáng bǔ láo, yóu wèi wǎn yě.",
+    "english": "Mend the pen after the sheep are lost; it’s not too late.", 
+    "meaning": "It’s never too late to fix a problem.", 
+    "author": "Anonymous",
+    "category": "Caution"
+  }, 
+  { 
+    "chinese": "口蜜腹剑。", 
+    "pinyin": "Kǒu mì fù jiàn.", 
+    "english": "Honey in the mouth, a sword in the belly.",
+    "meaning": "To be sweet in words but treacherous in actions.", 
+    "author": "Anonymous", "category": "Deception"
+  },
+  { 
+    "chinese": "车到山前必有路。", 
+    "pinyin": "Chē dào shān qián bì yǒu lù.", 
+    "english": "When the cart reaches the mountain, there will be a road.",
+    "meaning": "Things will work out in the end.",
+    "author": "Anonymous", 
+    "category": "Optimism" 
+  },
+  {
+    "chinese": "兵马未动，粮草先行。", 
+    "pinyin": "Bīng mǎ wèi dòng, liáng cǎo xiān xíng.", 
+    "english": "Before the troops move, provisions must go first.",
+    "meaning": "Preparation is essential before action.",
+    "author": "Anonymous",
+    "category": "Planning" 
+  },
+  { 
+    "chinese": "画龙点睛。", 
+    "pinyin": "Huà lóng diǎn jīng.",
+    "english": "To paint a dragon and dot its eyes.",
+    "meaning": "To add the crucial touch that brings something to life.",
+    "author": "Anonymous",
+    "category": "Creativity" 
+  },
+  {
+    "chinese": "近水楼台先得月。", 
+    "pinyin": "Jìn shuǐ lóu tái xiān dé yuè.",
+    "english": "The pavilion near the water gets the moonlight first.", 
+    "meaning": "Those with advantages get benefits first.",
+    "author": "Anonymous", 
+    "category": "Opportunity"
+  },
+ {
+    "chinese": "前事不忘，后事之师。",
+    "pinyin": "Qián shì bù wàng, hòu shì zhī shī.",
+    "english": "Do not forget past events, they are teachers for the future.",
+    "meaning": "Learn from past experiences to avoid repeating mistakes.",
+    "author": "Anonymous",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "滴水之恩，当涌泉相报。",
+    "pinyin": "Dī shuǐ zhī ēn, dāng yǒng quán xiāng bào.",
+    "english": "A drop of water shall be returned with a spring.",
+    "meaning": "Even the smallest kindness should be repaid generously.",
+    "author": "Anonymous",
+    "category": "Gratitude"
+  },
+  {
+    "chinese": "宁为玉碎，不为瓦全。",
+    "pinyin": "Nìng wéi yù suì, bù wéi wǎ quán.",
+    "english": "Better to be shattered like jade than to be whole like tile.",
+    "meaning": "It is better to die with honor than live in disgrace.",
+    "author": "Anonymous",
+    "category": "Integrity"
+  },
+  {
+    "chinese": "鹬蚌相争，渔翁得利。",
+    "pinyin": "Yù bàng xiāng zhēng, yú wēng dé lì.",
+    "english": "When the snipe and the clam fight, the fisherman profits.",
+    "meaning": "When two parties fight, a third party may benefit.",
+    "author": "Anonymous",
+    "category": "Strategy"
+  },
+  {
+    "chinese": "授业解惑，诲人不倦。",
+    "pinyin": "Shòu yè jiě huò, huì rén bù juàn.",
+    "english": "To teach and resolve doubts, never tiring in instructing others.",
+    "meaning": "A true teacher is patient and tireless in guiding students.",
+    "author": "Confucius",
+    "category": "Education"
+  },
+  {
+    "chinese": "众人拾柴火焰高。",
+    "pinyin": "Zhòng rén shí chái huǒ yàn gāo.",
+    "english": "When everyone adds firewood, the flames rise high.",
+    "meaning": "Teamwork makes tasks easier and more successful.",
+    "author": "Anonymous",
+    "category": "Teamwork"
+  },
+  {
+    "chinese": "君子报仇，十年不晚。",
+    "pinyin": "Jūnzǐ bàochóu, shí nián bù wǎn.",
+    "english": "A gentleman’s revenge is never too late, even after ten years.",
+    "meaning": "Patience is key; timing matters in action.",
+    "author": "Anonymous",
+    "category": "Patience"
+  },
+  {
+    "chinese": "满招损，谦受益。",
+    "pinyin": "Mǎn zhāo sǔn, qiān shòu yì.",
+    "english": "Arrogance invites loss; humility brings benefit.",
+    "meaning": "Staying humble brings growth, while pride leads to downfall.",
+    "author": "Anonymous",
+    "category": "Humility"
+  },
+  {
+    "chinese": "工欲善其事，必先利其器。",
+    "pinyin": "Gōng yù shàn qí shì, bì xiān lì qí qì.",
+    "english": "If a worker wants to do good work, he must first sharpen his tools.",
+    "meaning": "Preparation is the key to success.",
+    "author": "Confucius",
+    "category": "Preparation"
+  },
+  {
+    "chinese": "桃李不言，下自成蹊。",
+    "pinyin": "Táo lǐ bù yán, xià zì chéng qī.",
+    "english": "Peach and plum trees do not speak, yet paths form beneath them.",
+    "meaning": "A person’s virtue naturally attracts followers.",
+    "author": "Anonymous",
+    "category": "Virtue"
+  },
+  {
+    "chinese": "不入虎穴，焉得虎子。",
+    "pinyin": "Bù rù hǔ xué, yān dé hǔ zǐ.",
+    "english": "Without entering the tiger’s den, how can one obtain the cub?",
+    "meaning": "Great rewards require taking risks.",
+    "author": "Anonymous",
+    "category": "Courage"
+  },
+  {
+    "chinese": "良药苦口，忠言逆耳。",
+    "pinyin": "Liáng yào kǔ kǒu, zhōng yán nì ěr.",
+    "english": "Good medicine tastes bitter; honest advice is unpleasant to the ear.",
+    "meaning": "Truth may be hard to accept, but it is beneficial.",
+    "author": "Anonymous",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "海纳百川，有容乃大。",
+    "pinyin": "Hǎi nà bǎi chuān, yǒu róng nǎi dà.",
+    "english": "The sea can hold the water from a hundred rivers because of its capacity.",
+    "meaning": "Greatness comes from tolerance and inclusiveness.",
+    "author": "Anonymous",
+    "category": "Tolerance"
+  },
+  {
+    "chinese": "前人栽树，后人乘凉。",
+    "pinyin": "Qián rén zāi shù, hòu rén chéng liáng.",
+    "english": "The previous generation plants the tree so the next generation enjoys the shade.",
+    "meaning": "Future generations benefit from the hard work of those before them.",
+    "author": "Anonymous",
+    "category": "Legacy"
+  },
+  {
+    "chinese": "一寸光阴一寸金，寸金难买寸光阴。",
+    "pinyin": "Yī cùn guāng yīn yī cùn jīn, cùn jīn nán mǎi cùn guāng yīn.",
+    "english": "An inch of time is worth an inch of gold, but an inch of gold cannot buy an inch of time.",
+    "meaning": "Time is more precious than money.",
+    "author": "Anonymous",
+    "category": "Time"
+  },
+   {
+    "chinese": "未雨绸缪。",
+    "pinyin": "Wèi yǔ chóu móu.",
+    "english": "Repair the house before it rains.",
+    "meaning": "Take precautions before trouble comes.",
+    "author": "Anonymous",
+    "category": "Preparation"
+  },
+  {
+    "chinese": "山不在高，有仙则名。",
+    "pinyin": "Shān bù zài gāo, yǒu xiān zé míng.",
+    "english": "A mountain need not be high; if an immortal dwells there, it becomes famous.",
+    "meaning": "Worth is not in size but in substance.",
+    "author": "Anonymous",
+    "category": "Value"
+  },
+  {
+    "chinese": "树欲静而风不止。",
+    "pinyin": "Shù yù jìng ér fēng bù zhǐ.",
+    "english": "The tree wishes for calm, but the wind does not cease.",
+    "meaning": "Circumstances often prevent peace and quiet.",
+    "author": "Anonymous",
+    "category": "Life"
+  },
+  {
+    "chinese": "青出于蓝而胜于蓝。",
+    "pinyin": "Qīng chū yú lán ér shèng yú lán.",
+    "english": "Blue comes from indigo but is bluer than indigo.",
+    "meaning": "Students can surpass their teachers.",
+    "author": "Anonymous",
+    "category": "Learning"
+  },
+  {
+    "chinese": "螳螂捕蝉，黄雀在后。",
+    "pinyin": "Tángláng bǔ chán, huángquè zài hòu.",
+    "english": "The mantis stalks the cicada, unaware of the oriole behind.",
+    "meaning": "While preying on others, one may fall prey themselves.",
+    "author": "Anonymous",
+    "category": "Caution"
+  },
+  {
+    "chinese": "路遥知马力，日久见人心。",
+    "pinyin": "Lù yáo zhī mǎ lì, rì jiǔ jiàn rén xīn.",
+    "english": "Distance tests a horse’s strength, time reveals a person’s heart.",
+    "meaning": "Time reveals true character.",
+    "author": "Anonymous",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "一叶障目，不见泰山。",
+    "pinyin": "Yī yè zhàng mù, bù jiàn Tài Shān.",
+    "english": "One leaf before the eye blocks the view of Mount Tai.",
+    "meaning": "A small thing can blind one to the bigger picture.",
+    "author": "Anonymous",
+    "category": "Perspective"
+  },
+  {
+    "chinese": "千里送鹅毛，礼轻情意重。",
+    "pinyin": "Qiān lǐ sòng é máo, lǐ qīng qíng yì zhòng.",
+    "english": "A goose feather sent from a thousand miles away, though light, carries deep affection.",
+    "meaning": "The thought behind a gift is more important than its value.",
+    "author": "Anonymous",
+    "category": "Kindness"
+  },
+  {
+    "chinese": "读书破万卷，下笔如有神。",
+    "pinyin": "Dú shū pò wàn juàn, xià bǐ rú yǒu shén.",
+    "english": "Read ten thousand books, and your writing will flow like a god’s.",
+    "meaning": "Extensive reading improves one’s ability to write and create.",
+    "author": "Anonymous",
+    "category": "Learning"
+  },
+  {
+    "chinese": "言必信，行必果。",
+    "pinyin": "Yán bì xìn, xíng bì guǒ.",
+    "english": "Keep your word and be resolute in action.",
+    "meaning": "A gentleman must be trustworthy and decisive.",
+    "author": "Confucius",
+    "category": "Integrity"
+  },
+  {
+    "chinese": "天高任鸟飞，海阔凭鱼跃。",
+    "pinyin": "Tiān gāo rèn niǎo fēi, hǎi kuò píng yú yuè.",
+    "english": "The sky is high for birds to fly, the sea is wide for fish to leap.",
+    "meaning": "Everyone has space to develop freely.",
+    "author": "Anonymous",
+    "category": "Freedom"
+  },
+  {
+    "chinese": "一失足成千古恨。",
+    "pinyin": "Yī shī zú chéng qiān gǔ hèn.",
+    "english": "One misstep can lead to a lifetime of regret.",
+    "meaning": "A small mistake can have lasting consequences.",
+    "author": "Anonymous",
+    "category": "Caution"
+  },
+  {
+    "chinese": "不怕慢，就怕站。",
+    "pinyin": "Bù pà màn, jiù pà zhàn.",
+    "english": "Do not fear going slowly, only fear standing still.",
+    "meaning": "Progress, no matter how slow, is better than stagnation.",
+    "author": "Anonymous",
+    "category": "Perseverance"
+  },
+  {
+    "chinese": "近水知鱼性，近山识鸟音。",
+    "pinyin": "Jìn shuǐ zhī yú xìng, jìn shān shí niǎo yīn.",
+    "english": "Living near water, one knows the nature of fish; near mountains, the sound of birds.",
+    "meaning": "Knowledge comes from experience and environment.",
+    "author": "Anonymous",
+    "category": "Learning"
+  },
+  {
+    "chinese": "小洞不补，大洞吃苦。",
+    "pinyin": "Xiǎo dòng bù bǔ, dà dòng chī kǔ.",
+    "english": "A small hole not mended will become a big hole causing suffering.",
+    "meaning": "Fix small problems before they become big ones.",
+    "author": "Anonymous",
+    "category": "Caution"
+  },
+  {
+    "chinese": "树高千丈，落叶归根。",
+    "pinyin": "Shù gāo qiān zhàng, luò yè guī gēn.",
+    "english": "A tree may grow a thousand feet tall, but its leaves return to its roots.",
+    "meaning": "No matter how far one goes, they will return home.",
+    "author": "Anonymous",
+    "category": "Home"
+  },
+  {
+    "chinese": "星星之火，可以燎原。",
+    "pinyin": "Xīng xīng zhī huǒ, kě yǐ liáo yuán.",
+    "english": "A single spark can start a prairie fire.",
+    "meaning": "Small beginnings can lead to great results.",
+    "author": "Anonymous",
+    "category": "Motivation"
+  },
+  {
+    "chinese": "人无远虑，必有近忧。",
+    "pinyin": "Rén wú yuǎn lǜ, bì yǒu jìn yōu.",
+    "english": "If a man has no long-term worries, he will soon face near-term troubles.",
+    "meaning": "Planning ahead prevents immediate problems.",
+    "author": "Confucius",
+    "category": "Planning"
+  },
+  {
+    "chinese": "玉不琢，不成器。",
+    "pinyin": "Yù bù zhuó, bù chéng qì.",
+    "english": "Jade must be carved to become a gem.",
+    "meaning": "People need education and training to become useful.",
+    "author": "Anonymous",
+    "category": "Education"
+  },
+  {
+    "chinese": "千军易得，一将难求。",
+    "pinyin": "Qiān jūn yì dé, yī jiàng nán qiú.",
+    "english": "It is easy to find a thousand soldiers, but hard to find a good general.",
+    "meaning": "True leaders are rare and valuable.",
+    "author": "Anonymous",
+    "category": "Leadership"
+  },
+  {
+    "chinese": "打草惊蛇。",
+    "pinyin": "Dǎ cǎo jīng shé.",
+    "english": "Beat the grass and scare the snake.",
+    "meaning": "To inadvertently alert an enemy by taking premature action.",
+    "author": "Anonymous",
+    "category": "Strategy"
+  },
+  {
+    "chinese": "鸡犬不宁。",
+    "pinyin": "Jī quǎn bù níng.",
+    "english": "Even the chickens and dogs are not at peace.",
+    "meaning": "Total chaos and unrest.",
+    "author": "Anonymous",
+    "category": "Chaos"
+  },
+  {
+    "chinese": "吃一堑，长一智。",
+    "pinyin": "Chī yī qiàn, zhǎng yī zhì.",
+    "english": "Suffer a setback, gain wisdom.",
+    "meaning": "Failures teach valuable lessons.",
+    "author": "Anonymous",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "远亲不如近邻。",
+    "pinyin": "Yuǎn qīn bù rú jìn lín.",
+    "english": "A distant relative is not as helpful as a near neighbor.",
+    "meaning": "Neighbors can be more reliable than faraway family.",
+    "author": "Anonymous",
+    "category": "Community"
+  },
+  {
+    "chinese": "流水不腐，户枢不蠹。",
+    "pinyin": "Liú shuǐ bù fǔ, hù shū bù dù.",
+    "english": "Running water does not rot, a door hinge never worms.",
+    "meaning": "Constant activity prevents decay.",
+    "author": "Anonymous",
+    "category": "Health"
+  },
+  {
+    "chinese": "塞下秋来风景异。",
+    "pinyin": "Sài xià qiū lái fēng jǐng yì.",
+    "english": "In the frontier in autumn, the scenery is unique.",
+    "meaning": "Different places have different experiences.",
+    "author": "Anonymous",
+    "category": "Perspective"
+  },
+  {
+    "chinese": "江山易改，本性难移。",
+    "pinyin": "Jiāng shān yì gǎi, běn xìng nán yí.",
+    "english": "Rivers and mountains may change, but human nature is hard to alter.",
+    "meaning": "A person’s true nature is difficult to change.",
+    "author": "Anonymous",
+    "category": "Human Nature"
+  },
+  {
+    "chinese": "功夫不负有心人。",
+    "pinyin": "Gōng fū bù fù yǒu xīn rén.",
+    "english": "Hard work pays off for those who are determined.",
+    "meaning": "Effort and persistence bring results.",
+    "author": "Anonymous",
+    "category": "Motivation"
+  },
+  {
+    "chinese": "虎父无犬子。",
+    "pinyin": "Hǔ fù wú quǎn zǐ.",
+    "english": "A tiger father will not beget a dog son.",
+    "meaning": "Children inherit the excellence of their parents.",
+    "author": "Anonymous",
+    "category": "Family"
+  },
+  {
+    "chinese": "山高水长。",
+    "pinyin": "Shān gāo shuǐ cháng.",
+    "english": "The mountains are high and the rivers are long.",
+    "meaning": "Virtue and kindness endure forever.",
+    "author": "Anonymous",
+    "category": "Virtue"
+  },
+    {
+    "chinese": "燕雀安知鸿鹄之志。",
+    "pinyin": "Yàn què ān zhī hóng hú zhī zhì.",
+    "english": "How can sparrows understand the ambition of swans?",
+    "meaning": "Small-minded people cannot comprehend the aspirations of the great.",
+    "author": "Sima Qian",
+    "category": "Ambition"
+  },
+  {
+    "chinese": "授业传道解惑。",
+    "pinyin": "Shòu yè chuán dào jiě huò.",
+    "english": "To teach knowledge, spread the way, and solve doubts.",
+    "meaning": "A teacher’s duty is to impart wisdom and guidance.",
+    "author": "Han Yu",
+    "category": "Education"
+  },
+  {
+    "chinese": "一言既出，驷马难追。",
+    "pinyin": "Yī yán jì chū, sì mǎ nán zhuī.",
+    "english": "A word once spoken cannot be taken back even by four horses.",
+    "meaning": "One must keep their promises and words.",
+    "author": "Anonymous",
+    "category": "Integrity"
+  },
+  {
+    "chinese": "路不拾遗，夜不闭户。",
+    "pinyin": "Lù bù shí yí, yè bù bì hù.",
+    "english": "People do not pick up lost items on the road; doors need not be locked at night.",
+    "meaning": "Describes a society of great honesty and safety.",
+    "author": "Anonymous",
+    "category": "Society"
+  },
+  {
+    "chinese": "近乡情更怯。",
+    "pinyin": "Jìn xiāng qíng gèng qiè.",
+    "english": "Near home, one feels more timid.",
+    "meaning": "The closer one gets to home, the more emotions arise.",
+    "author": "Anonymous",
+    "category": "Home"
+  },
+  {
+    "chinese": "天时不如地利，地利不如人和。",
+    "pinyin": "Tiān shí bù rú dì lì, dì lì bù rú rén hé.",
+    "english": "Timing is not as important as geography, but geography is not as important as unity.",
+    "meaning": "Harmony among people is the most crucial advantage.",
+    "author": "Mencius",
+    "category": "Strategy"
+  },
+  {
+    "chinese": "物以类聚，人以群分。",
+    "pinyin": "Wù yǐ lèi jù, rén yǐ qún fēn.",
+    "english": "Things gather by kind, people group by type.",
+    "meaning": "People are drawn to those similar to themselves.",
+    "author": "Anonymous",
+    "category": "Human Nature"
+  },
+  {
+    "chinese": "半途而废。",
+    "pinyin": "Bàn tú ér fèi.",
+    "english": "Give up halfway.",
+    "meaning": "Abandoning an effort before it is complete leads to failure.",
+    "author": "Anonymous",
+    "category": "Perseverance"
+  },
+  {
+    "chinese": "鹤立鸡群。",
+    "pinyin": "Hè lì jī qún.",
+    "english": "A crane standing among chickens.",
+    "meaning": "A person who stands out as outstanding among ordinary people.",
+    "author": "Anonymous",
+    "category": "Excellence"
+  },
+  {
+    "chinese": "愚公移山。",
+    "pinyin": "Yú gōng yí shān.",
+    "english": "The foolish old man moves the mountains.",
+    "meaning": "Perseverance can overcome any difficulty.",
+    "author": "Liezi",
+    "category": "Perseverance"
+  },
+  {
+    "chinese": "鹤长凫短。",
+    "pinyin": "Hè cháng fú duǎn.",
+    "english": "The crane is tall, the duck is short.",
+    "meaning": "Everyone has their strengths and weaknesses.",
+    "author": "Anonymous",
+    "category": "Perspective"
+  },
+  {
+    "chinese": "塞翁失马，安知非祸福相依。",
+    "pinyin": "Sàiwēng shī mǎ, ān zhī fēi huò fú xiāng yī.",
+    "english": "The old man lost his horse, who knows if disaster and blessing are not intertwined?",
+    "meaning": "Good fortune and misfortune often come together.",
+    "author": "Anonymous",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "铁杵成针。",
+    "pinyin": "Tiě chǔ chéng zhēn.",
+    "english": "An iron pestle can be ground into a needle.",
+    "meaning": "With perseverance, even the most difficult tasks can be achieved.",
+    "author": "Anonymous",
+    "category": "Perseverance"
+  },
+  {
+    "chinese": "螳臂当车。",
+    "pinyin": "Táng bì dāng chē.",
+    "english": "A mantis trying to stop a chariot.",
+    "meaning": "Overestimating one’s strength when facing something much stronger.",
+    "author": "Anonymous",
+    "category": "Caution"
+  },
+  {
+    "chinese": "风雨同舟。",
+    "pinyin": "Fēng yǔ tóng zhōu.",
+    "english": "Together in the same boat through wind and rain.",
+    "meaning": "Facing difficulties together builds solidarity.",
+    "author": "Anonymous",
+    "category": "Teamwork"
   }
+
+  
 ]
+
