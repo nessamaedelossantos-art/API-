@@ -725,8 +725,89 @@
     "meaning": "Facing difficulties together builds solidarity.",
     "author": "Anonymous",
     "category": "Teamwork"
+  },
+  {
+    "chinese": "不经一事，不长一智。",
+    "pinyin": "Bù jīng yī shì, bù zhǎng yī zhì.",
+    "english": "One cannot gain wisdom without experiencing events.",
+    "meaning": "Experience is the best teacher.",
+    "author": "Anonymous",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "山穷水尽疑无路，柳暗花明又一村。",
+    "pinyin": "Shān qióng shuǐ jìn yí wú lù, liǔ àn huā míng yòu yī cūn.",
+    "english": "When mountains and rivers seem to end, another village appears in the shade of willows and blossoms.",
+    "meaning": "When all seems lost, hope may still appear.",
+    "author": "Lu You",
+    "category": "Optimism"
+  },
+  {
+    "chinese": "一日为师，终身为父。",
+    "pinyin": "Yī rì wéi shī, zhōng shēn wéi fù.",
+    "english": "A teacher for one day is like a father for life.",
+    "meaning": "Teachers deserve lifelong respect.",
+    "author": "Anonymous",
+    "category": "Education"
+  },
+  {
+    "chinese": "男儿当自强。",
+    "pinyin": "Nán ér dāng zì qiáng.",
+    "english": "A real man should constantly strive to improve himself.",
+    "meaning": "Self-reliance and perseverance define strength.",
+    "author": "Anonymous",
+    "category": "Motivation"
+  },
+  {
+    "chinese": "前人失足，后人戒行。",
+    "pinyin": "Qián rén shī zú, hòu rén jiè xíng.",
+    "english": "The missteps of those before are warnings for those who follow.",
+    "meaning": "Learn from others’ mistakes.",
+    "author": "Anonymous",
+    "category": "Caution"
+  },
+  {
+    "chinese": "种瓜得瓜，种豆得豆。",
+    "pinyin": "Zhòng guā dé guā, zhòng dòu dé dòu.",
+    "english": "Plant melons and you get melons; plant beans and you get beans.",
+    "meaning": "You reap what you sow.",
+    "author": "Anonymous",
+    "category": "Justice"
+  },
+  {
+    "chinese": "一分耕耘，一分收获。",
+    "pinyin": "Yī fēn gēng yún, yī fēn shōu huò.",
+    "english": "With every bit of plowing comes a bit of harvest.",
+    "meaning": "Effort determines reward.",
+    "author": "Anonymous",
+    "category": "Hard Work"
+  },
+  {
+    "chinese": "国以民为本。",
+    "pinyin": "Guó yǐ mín wéi běn.",
+    "english": "The state is founded on its people.",
+    "meaning": "The well-being of the people is the foundation of governance.",
+    "author": "Mencius",
+    "category": "Society"
+  },
+  {
+    "chinese": "大器晚成。",
+    "pinyin": "Dà qì wǎn chéng.",
+    "english": "A great talent matures late.",
+    "meaning": "True greatness takes time to develop.",
+    "author": "Laozi",
+    "category": "Growth"
+  },
+  {
+    "chinese": "良言一句三冬暖，恶语伤人六月寒。",
+    "pinyin": "Liáng yán yī jù sān dōng nuǎn, è yǔ shāng rén liù yuè hán.",
+    "english": "A kind word warms one for three winters; a harsh word chills one in midsummer.",
+    "meaning": "Words have great power to heal or hurt.",
+    "author": "Anonymous",
+    "category": "Kindness"
   }
 
   
 ]
+
 
