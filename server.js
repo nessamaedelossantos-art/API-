@@ -147,7 +147,7 @@ app.post(`/api/${VERSION}/feedback`, (req, res) => {
     name, email, message
   };
   fs.appendFileSync(FEEDBACK_PATH, JSON.stringify(entry) + "\n", "utf8");
-  res.status(201).json({ status: "ok" });
+  res.status(201).json({ status: "Message received. ThankYou!" });
 });
 
 // 404 handler
