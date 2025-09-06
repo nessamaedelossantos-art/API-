@@ -805,6 +805,166 @@
     "meaning": "Words have great power to heal or hurt.",
     "author": "Anonymous",
     "category": "Kindness"
+  },
+  {
+    "chinese": "人心齐，泰山移。",
+    "pinyin": "Rén xīn qí, Tài Shān yí.",
+    "english": "When people are united, they can move Mount Tai.",
+    "meaning": "Unity can overcome great difficulties.",
+    "author": "Anonymous",
+    "category": "Teamwork"
+  },
+  {
+    "chinese": "善有善报，恶有恶报。",
+    "pinyin": "Shàn yǒu shàn bào, è yǒu è bào.",
+    "english": "Good begets good, evil begets evil.",
+    "meaning": "Your actions determine your outcomes.",
+    "author": "Anonymous",
+    "category": "Ethics"
+  },
+  {
+    "chinese": "前人失德，后人戒之。",
+    "pinyin": "Qián rén shī dé, hòu rén jiè zhī.",
+    "english": "The loss of virtue in predecessors is a warning to those who follow.",
+    "meaning": "Learn from the mistakes of others.",
+    "author": "Anonymous",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "不怕人穷，就怕志短。",
+    "pinyin": "Bù pà rén qióng, jiù pà zhì duǎn.",
+    "english": "Do not fear poverty, only fear lack of ambition.",
+    "meaning": "Ambition is more important than wealth.",
+    "author": "Anonymous",
+    "category": "Ambition"
+  },
+  {
+    "chinese": "滴水成河，粒米成箩。",
+    "pinyin": "Dī shuǐ chéng hé, lì mǐ chéng luó.",
+    "english": "Drops of water make a river; grains of rice make a basket.",
+    "meaning": "Small contributions add up to greatness.",
+    "author": "Anonymous",
+    "category": "Perseverance"
+  },
+  {
+    "chinese": "敬人者，人恒敬之。",
+    "pinyin": "Jìng rén zhě, rén héng jìng zhī.",
+    "english": "Those who respect others will always be respected.",
+    "meaning": "Respect is mutual.",
+    "author": "Confucius",
+    "category": "Ethics"
+  },
+  {
+    "chinese": "塞下秋风动客心。",
+    "pinyin": "Sài xià qiū fēng dòng kè xīn.",
+    "english": "The autumn wind at the frontier stirs a traveler’s heart.",
+    "meaning": "Scenery can evoke deep emotions.",
+    "author": "Anonymous",
+    "category": "Life"
+  },
+  {
+    "chinese": "大器晚成。",
+    "pinyin": "Dà qì wǎn chéng.",
+    "english": "Great talents mature late.",
+    "meaning": "True greatness takes time to develop.",
+    "author": "Anonymous",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "言多必失。",
+    "pinyin": "Yán duō bì shī.",
+    "english": "The more you speak, the more mistakes you make.",
+    "meaning": "Be careful with words; silence is often wise.",
+    "author": "Anonymous",
+    "category": "Caution"
+  },
+  {
+    "chinese": "天网恢恢，疏而不漏。",
+    "pinyin": "Tiān wǎng huī huī, shū ér bù lòu.",
+    "english": "The net of heaven is vast; it lets nothing slip through.",
+    "meaning": "Justice may be delayed, but it will not be denied.",
+    "author": "Laozi",
+    "category": "Justice"
+  },
+  {
+    "chinese": "近墨者黑，近朱者赤。",
+    "pinyin": "Jìn mò zhě hēi, jìn zhū zhě chì.",
+    "english": "Those near ink are stained black; those near vermilion are stained red.",
+    "meaning": "Environment influences character.",
+    "author": "Anonymous",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "良禽择木而栖。",
+    "pinyin": "Liáng qín zé mù ér qī.",
+    "english": "A fine bird chooses a good tree to rest on.",
+    "meaning": "Wise people choose good leaders to follow.",
+    "author": "Anonymous",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "不经风雨，怎见彩虹？",
+    "pinyin": "Bù jīng fēng yǔ, zěn jiàn cǎi hóng?",
+    "english": "Without wind and rain, how can you see a rainbow?",
+    "meaning": "Hardship is needed before success.",
+    "author": "Anonymous",
+    "category": "Motivation"
+  },
+  {
+    "chinese": "福无双至，祸不单行。",
+    "pinyin": "Fú wú shuāng zhì, huò bù dān xíng.",
+    "english": "Fortune does not come twice, but misfortune never comes alone.",
+    "meaning": "Good things are rare, but troubles often come together.",
+    "author": "Anonymous",
+    "category": "Life"
+  },
+  {
+    "chinese": "千里送鹅毛，礼轻情意重。",
+    "pinyin": "Qiān lǐ sòng é máo, lǐ qīng qíng yì zhòng.",
+    "english": "A goose feather sent a thousand miles carries deep affection.",
+    "meaning": "The thought behind a gift matters more than its value.",
+    "author": "Anonymous",
+    "category": "Kindness"
+  },
+  {
+    "chinese": "不打不成器。",
+    "pinyin": "Bù dǎ bù chéng qì.",
+    "english": "Without being tempered, one cannot become useful.",
+    "meaning": "Hardship shapes character.",
+    "author": "Anonymous",
+    "category": "Discipline"
+  },
+  {
+    "chinese": "不经一事，不长一智。",
+    "pinyin": "Bù jīng yī shì, bù zhǎng yī zhì.",
+    "english": "Without experiencing an event, one gains no wisdom.",
+    "meaning": "Experience is the best teacher.",
+    "author": "Anonymous",
+    "category": "Wisdom"
+  },
+  {
+    "chinese": "水滴石穿，绳锯木断。",
+    "pinyin": "Shuǐ dī shí chuān, shéng jù mù duàn.",
+    "english": "Dripping water wears through stone, rope saws cut wood.",
+    "meaning": "Persistence overcomes difficulty.",
+    "author": "Anonymous",
+    "category": "Perseverance"
+  },
+  {
+    "chinese": "岁寒知松柏。",
+    "pinyin": "Suì hán zhī sōng bǎi.",
+    "english": "Only in the cold of winter do we see the strength of pines and cypresses.",
+    "meaning": "Adversity reveals true character.",
+    "author": "Confucius",
+    "category": "Character"
+  },
+  {
+    "chinese": "不怕路远，就怕志短。",
+    "pinyin": "Bù pà lù yuǎn, jiù pà zhì duǎn.",
+    "english": "Do not fear a long road, only fear a short ambition.",
+    "meaning": "Determination makes distance irrelevant.",
+    "author": "Anonymous",
+    "category": "Perseverance"
   }
 
   
